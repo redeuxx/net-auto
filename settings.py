@@ -1,5 +1,0 @@
-host = ''
-port = ''
-username = ''
-password = ''
-device_type = ''
