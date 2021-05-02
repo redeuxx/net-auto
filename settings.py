@@ -1,5 +1,0 @@
-host = "192.168.1.13"
-port="22"
-username="manager"
-password="bigpotato438"
-device_type="aruba_procurve"
